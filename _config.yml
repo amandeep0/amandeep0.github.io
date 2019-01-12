@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Amandeep Singh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar.jpg" path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a 3rd year PhD student in Operations, Informations
                       and, Decisions department at the Wharton School."
   location         : "Philadelphia, PA"
