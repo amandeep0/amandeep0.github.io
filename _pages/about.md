@@ -16,7 +16,6 @@ news: true
 social: true
 ---
 
-I am currently a 3rd year doctoral student in Operations, Informations and Decisions at the Wharton School. In my research I study various aspects of digital platforms and marketplaces. In another stream of research I work on developing new econometric methods, leveraging the recent advancements in machine learning literature. I aim at taking hard empirical problems head on, by In my research, I study varying aspects of Platforms and Marketplace viz operational, economic and legal.
-I did my ScB in Computer Science and Engineering from Indian Institute of Technology, Patna and my SM in Operations Research from Columbia.
+I am currently a 3rd year doctoral student in Operations, Informations and Decisions department at the Wharton School. In my research, I empirically examine various aspects of digital platforms and marketplaces. In another stream of research, I work on developing new econometric methods, leveraging the recent advancements in empirical industrial organization and machine learning literature. I did my ScB in Computer Science and Engineering from Indian Institute of Technology, Patna and my SM in Operations Research from Columbia.
 
 Prior to Wharton, I worked as Fixed Income and Futures Trader at Goldman Sachs and Tower Research Capital.
