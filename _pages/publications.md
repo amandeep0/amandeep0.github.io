@@ -19,6 +19,10 @@ description: Publications by categories in reversed chronological order. Generat
     <ul>
     <li>Under Review at <i>Management Science</i></li>
     </ul>
+    <li><b>Revisiting Optimal Instrument Variables</b> with Amit Gandhi and Kartik Hosanagar</li>
+    <ul>
+    <li>Preparation for submission at <i>Journal of Econometrics</i></li>
+    </ul>
     <li><b>Estimating Indirect Network Effects in Mobile Platforms</b> with Kartik Hosanagar and Aviv Nevo</li>
     <ul>
     <li>In Preparation for submission at <i>Management Science</i></li>
