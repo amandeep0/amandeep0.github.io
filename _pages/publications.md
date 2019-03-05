@@ -11,7 +11,8 @@ description: Publications by categories in reversed chronological order. Generat
 </div>
 ### Working Papers
 <ul>
-    <li><b>Reviews and Version Updates in Mobile App Markets</b> with Gad Allon and Ken Moon</li>
+    
+<li><b>Reviews and Version Updates in Mobile App Markets</b> with Gad Allon and Ken Moon</li>
     <ul>
     <li>Major Revision <i>Management Science</i></li>
     </ul>
@@ -27,8 +28,8 @@ description: Publications by categories in reversed chronological order. Generat
     <ul>
     <li>In Preparation for submission at <i>Management Science</i></li>
     </ul>
-    <li><b>Demand "Estimation+Learning" in Differentiated Products Markets </b> with Amit Gandhi, Kartik Hosanagar</li>
-    <li><b>Insourcing of Fullfillment Services: Who Wins and Who Losses?</b> with Jiding Zhang, Chen Jin and Senthil Veeraraghavan</li>
+    <li><b>Honest Demand Estimation in Differentiated Products Markets </b> with Amit Gandhi, Kartik Hosanagar</li>
+    <li><b>Fulfillment By Platform: Implications For Upstream Market Power</b> with Jiding Zhang, Chen Jin and Senthil Veeraraghavan</li>
 
 </ul>
 ### Work in Progress
