@@ -11,25 +11,44 @@ description: Publications by categories in reversed chronological order. Generat
 </div>
 ### Working Papers
 <ul>
-    
+
+<li><b>Digital Platforms and Online Marketplaces</li>
+<ul>
 <li><b>Reviews and Version Updates in Mobile App Markets</b> with Gad Allon and Ken Moon</li>
     <ul>
     <li>Major Revision <i>Management Science</i></li>
     </ul>
-    <li><b>Learning Optimal Instrument Variables</b> with Kartik Hosanagar and Amit Gandhi</li>
-    <ul>
-    <li>Under Review at <i>Management Science</i></li>
-    </ul>
-    <li><b>Revisiting Optimal Instrument Variables</b> with Amit Gandhi and Kartik Hosanagar</li>
-    <ul>
-    <li>Preparation for submission at <i>Journal of Econometrics</i></li>
-    </ul>
+
+
     <li><b>Estimating Indirect Network Effects in Mobile Platforms</b> with Kartik Hosanagar and Aviv Nevo</li>
     <ul>
     <li>In Preparation for submission at <i>Management Science</i></li>
     </ul>
-    <li><b>Honest Demand Estimation in Differentiated Products Markets </b> with Amit Gandhi, Kartik Hosanagar</li>
     <li><b>Fulfillment By Platform: Implications For Upstream Market Power</b> with Jiding Zhang, Chen Jin and Senthil Veeraraghavan</li>
+    <ul>
+    <li>In Preparation for submission at <i>Management Science</i></li>
+    </ul>
+
+
+</ul>
+<li><b>Econometrics and Machine Learning</li>
+<ul>
+<li><b>Learning Optimal Instrument Variables</b> with Kartik Hosanagar and Amit Gandhi</li>
+<ul>
+<li>Under Review at <i>Management Science</i></li>
+</ul>
+
+<li><b>Revisiting Optimal Instrument Variables</b> with Amit Gandhi and Kartik Hosanagar</li>
+<ul>
+<li>Preparation for submission at <i>Journal of Econometrics</i></li>
+</ul>
+
+
+<li><b>Honest Demand Estimation in Differentiated Products Markets </b> with Amit Gandhi, Kartik Hosanagar</li>
+
+
+</ul>
+
 
 </ul>
 ### Work in Progress
