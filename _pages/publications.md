@@ -11,7 +11,9 @@ description: Publications by categories in reversed chronological order. Generat
 </div>
 ### Working Papers
 <ul>
-<li><strong>Digital Platforms and Online Marketplaces</strong></li>
+<li><strong><h2><u>Digital Platforms and Online Marketplaces</u>
+
+  </h2></strong></li>
 <ul>
 <li><strong>Reviews and Version Updates in Mobile App Markets</strong> with Gad Allon and Ken Moon</li>
 <ul>
@@ -26,7 +28,7 @@ description: Publications by categories in reversed chronological order. Generat
 <li>In Preparation for submission at <em>Management Science</em></li>
 </ul>
 </ul>
-<li><strong>Econometrics and Machine Learning</strong></li>
+<li><strong><h2><u>Econometrics and Machine Learning</u> </h2></strong></li>
 <ul>
 <li><strong>Learning Optimal Instrument Variables</strong> with Kartik Hosanagar and Amit Gandhi</li>
 <ul>
